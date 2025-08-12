@@ -6,8 +6,8 @@ function capitalize(str) {
   return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
-// Fetch and display 100 Pokémon
-fetch("https://pokeapi.co/api/v2/pokemon?limit=100")
+// Fetch and display Pokémon
+fetch("https://pokeapi.co/api/v2/pokemon?limit=10000")
   .then((response) => response.json())
   .then((data) => {
     pokemonList = data.results;
