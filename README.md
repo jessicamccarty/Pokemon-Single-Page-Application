@@ -1,7 +1,7 @@
 # Pokemon Browser: Development Log
 
 **Deployed Page:**  
-[[LINK HERE](https://jessicamccarty.github.io/Pokemon-Single-Page-Application/)](#)  
+[(https://jessicamccarty.github.io/Pokemon-Single-Page-Application/)](#)  
 
 ---
 
